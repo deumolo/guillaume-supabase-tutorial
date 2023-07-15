@@ -1,0 +1,18 @@
+1.- Supabase es backend as a service, sistema de autenticacion, y una base de datos corriendo
+en postgres como fuente de datos.
+
+2.- Supabase está creado sobre postgres
+
+3.- Las features mas importantes son las edge functions con las que se pueden correr aplicaciones deno o node, 
+subscripciones en tiempo real, storage, y documentacion que dependiendo de cada tabla se puede generar automaticamente el sdk
+para el frontend.
+
+4.- En el free plan solo se pueden tener 2 proyectos.
+
+5.- Cada organizacion puede tener diferentes proyectos.
+
+--- Crear un nuevo proyecto
+
+6.- 
+
+7.- guillaume-supabase-tutorial
